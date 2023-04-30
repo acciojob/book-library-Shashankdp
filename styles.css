@@ -21,6 +21,9 @@ body{
 	margin-top: 10px
 }
 
+.book .image{
+	background-color: rgb(46, 204, 113); 
+}
 
 .book .image,.price{
 	text-align: center;
